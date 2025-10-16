@@ -1,6 +1,6 @@
 # GT OMSCS Prep
 
-Santosh's preparation repository for **Georgia Tech OMSCS (Fall 2026)**.
+Santosh Menon's preparation repository for **Georgia Tech OMSCS (Fall 2026)**.
 
 ## Structure
 - `algorithmic-thinking/` — small Python exercises
