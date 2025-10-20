@@ -37,6 +37,14 @@ These are foundational skills used later in AI/ML data handling and training loo
   - `find_top_student()` – finds highest performer from a dictionary.
 - Reinforced modular design and clean functional flow.
 
+## Day 10 – Logical Synthesis (Library Checkout System)
+- End-to-end mini system using functions + loops + conditionals.
+- Features:
+  - Show books with availability
+  - Checkout (validates availability)
+  - Return (validates state)
+- Highlights: state stored in a dictionary, clean function boundaries, simple console menu.
+
 ## Notes
 - Code favors clarity over compact syntax (no list comprehensions; no “magical” one-liners).
 - Variable names are explicit; loops are step-by-step and easy to trace.

@@ -25,4 +25,10 @@
 - Combined multiple helpers into a cohesive program.  
 - Strengthened modular design thinking for future OMSCS projects.
 
+## Day 10
+**Focus:** Logical Synthesis (End-to-End Program)
+- Built a Library Checkout System with functions (`show_books`, `checkout_book`, `return_book`, `main`).
+- Managed state with a dictionary and validated inputs via conditionals.
+- Practiced program flow, user input, and clean function decomposition.
+
 **Takeaway:** Strong control flow + data structure reasoning—directly applicable to ML data pipelines.
