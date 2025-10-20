@@ -25,6 +25,18 @@ These are foundational skills used later in AI/ML data handling and training loo
   - State changes over time
   - `while` loops with `break` conditions
 
+## Day 9 – Refactoring to Functions
+- Practiced encapsulating logic into functions for reusability.
+- Learned:
+  - How to define and call functions with parameters.
+  - Difference between `return` vs. `print`.
+  - How multiple helper functions work together (composition).
+- Implemented:
+  - `compute_total()` – sum of a list.
+  - `compute_average()` – average using total helper.
+  - `find_top_student()` – finds highest performer from a dictionary.
+- Reinforced modular design and clean functional flow.
+
 ## Notes
 - Code favors clarity over compact syntax (no list comprehensions; no “magical” one-liners).
 - Variable names are explicit; loops are step-by-step and easy to trace.

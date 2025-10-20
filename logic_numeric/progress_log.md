@@ -18,4 +18,11 @@
 - Modeled ATM cash dispenser logic with `while` loop, `break`, and multiple conditions.  
 - Learned how to represent dynamic “system state” in code.
 
+## Day 9
+**Focus:** Refactoring and Function Design  
+- Learned to encapsulate logic into functions.  
+- Practiced using arguments and return values.  
+- Combined multiple helpers into a cohesive program.  
+- Strengthened modular design thinking for future OMSCS projects.
+
 **Takeaway:** Strong control flow + data structure reasoning—directly applicable to ML data pipelines.
