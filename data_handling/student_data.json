@@ -1,0 +1,10 @@
+{
+    "name": "Santosh",
+    "age": 34,
+    "courses": [
+        "AI",
+        "ML",
+        "KBAI"
+    ],
+    "active": true
+}
